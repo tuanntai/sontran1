@@ -1,0 +1,18 @@
+                                                body {
+                                                font-family: Helvetica, Arial, Tahoma, sans-serif;
+                                                background-color: antiquewhite;
+                                                align: "center";
+                                            }
+                                            
+                                            img {
+                                                width: 350px;
+                                                height: 450px;
+                                            }
+                                            
+                                            div.thongtin {
+                                                font-family: Helvetica, Arial, Tahoma, sans-serif;
+                                                position: absolute;
+                                                top: 75px;
+                                                left: 450px;
+                                                text-align: left;
+                                                font-size: 150%;}
